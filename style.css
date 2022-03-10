@@ -58,11 +58,7 @@ h1{
 p{
     color: #fff;
 }
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<title></title>
-<style>
+
 *, ::after, ::before {
 	box-sizing: border-box;
 }
